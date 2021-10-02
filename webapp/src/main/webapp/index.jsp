@@ -12,7 +12,8 @@
     <section class="page">
     <div class="title">
       <h2><a href="#">< index</a></h2>
-      <h1>CASA/ATELIER GVM</h1>
+      <!--<h1>CASA/ATELIER GVM</h1>-->
+        <h1> DEVOPS</h1>
       
       
     </div>
